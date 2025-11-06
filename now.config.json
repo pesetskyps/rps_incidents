@@ -1,0 +1,6 @@
+{
+  "scope": "x_1853061_rps_inci",
+  "scopeId": "a8fc136d47853a10cc59b4b4116d430f",
+  "name": "RPS Incidents",
+  "tsconfigPath": "./src/server/tsconfig.json"
+}
