@@ -1,0 +1,14 @@
+[
+  {
+    "key": "ctrl+alt+b",
+    "command": "workbench.action.tasks.runTask",
+    "args": "ServiceNow: Build",
+    "when": "workspaceFolderCount > 0"
+  },
+  {
+    "key": "ctrl+alt+d",
+    "command": "workbench.action.tasks.runTask",
+    "args": "ServiceNow: Deploy",
+    "when": "workspaceFolderCount > 0"
+  }
+]

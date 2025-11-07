@@ -1,0 +1,21 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "ServiceNow: Build",
+            "type": "shell",
+            "command": "npm run build",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "ServiceNow: Deploy",
+            "type": "shell",
+            "command": "npm run deploy",
+            "problemMatcher": []
+        }
+    ]
+}
