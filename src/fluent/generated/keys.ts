@@ -20,10 +20,12 @@ declare global {
                     'x_1853061_rps_inci/main': {
                         table: 'sys_ux_lib_asset'
                         id: '9152790193b2479381c14f00eafdab0f'
+                        deleted: false
                     }
                     'x_1853061_rps_inci/main.js.map': {
                         table: 'sys_ux_lib_asset'
                         id: '6136dd5b3e77452f9511e8d8b8374a7b'
+                        deleted: false
                     }
                 }
                 composite: [
